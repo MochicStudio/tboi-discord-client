@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>DiscordTBOI</name>
+    <directory>discordtboi</directory>
+    <description>
+    Allows easy communication between your game and the DiscordTBOA discord bot. 
+    </description>
+    <version>0.1</version>
+    <visibility>Public</visibility>
+</metadata>
